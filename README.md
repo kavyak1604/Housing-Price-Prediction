@@ -77,3 +77,27 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/kavyak1604/housing-prices-prediction.git
 
+2. **Navigate to the project directory**:
+
+   ```bash
+cd housing-prices-prediction
+
+3. **Install required dependencies**:  
+   ```bash  
+pip install pandas numpy scikit-learn matplotlib seaborn
+
+4. **Run the Jupyter Notebook**:  
+   ```bash  
+jupyter notebook Housing_prices_prediction_053.ipynb
+
+## Conclusion
+This project explores multiple machine learning models to predict housing prices based on real-world features.The Decision Tree model demonstrated the best performance in terms of RMSE and R² score, indicating its effectiveness in capturing complex patterns in the dataset.
+
+Key takeaways from this project:
+
+Feature engineering and preprocessing play a crucial role in improving model accuracy.  
+Different regression models provide varying levels of performance, and model selection should depend on the specific dataset and use case.  
+Data visualization helps in understanding relationships between variables and making informed modeling decisions.  
+This project serves as a foundational step for building more sophisticated real estate pricing models in the future.  
+
+
