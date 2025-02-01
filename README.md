@@ -90,14 +90,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn
    ```bash  
 jupyter notebook Housing_prices_prediction_053.ipynb
 
-## Conclusion
-This project explores multiple machine learning models to predict housing prices based on real-world features.The Decision Tree model demonstrated the best performance in terms of RMSE and R² score, indicating its effectiveness in capturing complex patterns in the dataset.
 
-Key takeaways from this project:
-
-Feature engineering and preprocessing play a crucial role in improving model accuracy.  
-Different regression models provide varying levels of performance, and model selection should depend on the specific dataset and use case.  
-Data visualization helps in understanding relationships between variables and making informed modeling decisions.  
-This project serves as a foundational step for building more sophisticated real estate pricing models in the future.  
 
 
