@@ -68,3 +68,12 @@ To run this project, you'll need the following libraries installed:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+## Running the Project
+
+To run this project, follow these steps:
+
+1. **Clone this repository** using the following command:
+   ```bash
+   git clone https://github.com/kavyak1604/housing-prices-prediction.git
+
